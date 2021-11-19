@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alter80" alt="alter80" /></a> </p>
 
+- 🔭 I’m currently working on [Raster Motors](https://raster-auth.web.app/)
+
+- 🌱 I’m currently learning React, Node JS, MongoDB, Express
+
+- 💬 Ask me about React
+
+- 📫 How to reach me fahim.atul0@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/alter80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alter80" height="30" width="40" /></a>
