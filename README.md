@@ -11,7 +11,7 @@
 
 - 💬 Ask me about React
 
-- 📫 How to reach me fahim.atul0@gmail.com
+- 📫 reach me via email fahim.atul0@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
