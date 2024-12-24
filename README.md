@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alter80" alt="alter80" /></a> </p>
 
-- 🔭 I’m currently working on [Friisbee](https://friisbee.com/), [OTGBangladesh](https://otgbangladesh.com/) , [OnTheGoAccountants](https://www.onthegoaccountants.co.uk/) & [PC Builder Bangladesh] (https://www.pcbuilderbd.com/)
+- 🔭 I’m currently working on [Friisbee](https://friisbee.com/), [OTGBangladesh](https://otgbangladesh.com/) , [OnTheGoAccountants](https://www.onthegoaccountants.co.uk/) & [PC Builder Bangladesh](https://www.pcbuilderbd.com/)
 
 - 🌱 I’m currently learning React, Node JS, MongoDB, Express
 
