@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [Friisbee](https://friisbee.com/), [OTGBangladesh](https://otgbangladesh.com/) , [OnTheGoAccountants](https://www.onthegoaccountants.co.uk/) & [PC Builder Bangladesh](https://www.pcbuilderbd.com/)
 
-- 🌱 I’m currently learning React, Node JS, MongoDB, Express
-
-- 💬 Ask me about React
+- 🌱 I’m currently evaluating my skills on React, Node JS, MongoDB, Expressjs
 
 - 📫 reach me via email fahim.atul0@gmail.com
 
