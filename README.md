@@ -11,8 +11,7 @@ I build scalable web apps, real-world products, and systems that solve problems.
 
 - 💻 Full-time Software Engineer  
 - 🚀 Focused on building **real-world scalable products**  
-- 🧩 Interested in **System Design, Backend Architecture & SaaS**  
-- 🌍 Targeting global markets (UK 🇬🇧 / US 🇺🇸)  
+- 🧩 Interested in **System Design, Backend Architecture & SaaS**    
 - ⚡ Strong focus on **performance, scalability & clean architecture**
 
 ---
