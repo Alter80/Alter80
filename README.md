@@ -20,9 +20,9 @@ I build scalable web apps, real-world products, and systems that solve problems.
 
 - 🔭 Currently working on:  
   - [Friisbee](https://friisbee.com)  
-  - [OTGBangladesh](https://otgbangladesh.com)  
-  - [OnTheGoAccountants](https://onthegoaccountants.com)  
-  - [PC Builder Bangladesh](https://pcbuilderbangladesh.com)
+  - [OTGBangladesh](https://otgbangladesh.com) 
+  - [OnTheGoAccountants](https://www.onthegoaccountants.co.uk)  
+  - [PC Builder Bangladesh](https://pcbuilderbd.com)
   - [PCB Store](https://pcbstore.com.bd/)
 
 ---
